@@ -1,0 +1,9 @@
+Coca
+asd
+20
+Sprite
+40
+10
+Fanta
+20
+120

@@ -1,0 +1,12 @@
+Coca
+100
+20
+Sprite
+40
+10
+Fanta
+20
+100
+Coldy
+230
+11
