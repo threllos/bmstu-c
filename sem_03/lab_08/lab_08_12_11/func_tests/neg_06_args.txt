@@ -1,0 +1,1 @@
+o shared/n_06_in.txt test_n_06_out.txt

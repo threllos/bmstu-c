@@ -1,0 +1,1 @@
+s shared/p_06_in.txt test_pos_06_out.txt

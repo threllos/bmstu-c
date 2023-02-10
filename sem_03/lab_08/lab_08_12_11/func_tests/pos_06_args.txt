@@ -1,0 +1,1 @@
+m shared/p_06_01_in.txt shared/p_06_02_in.txt test_p_06_out.txt

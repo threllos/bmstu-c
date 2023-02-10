@@ -1,0 +1,1 @@
+s shared/n_02_01_in.txt shared/n_02_02_in.txt shared/n_02_03_in.txt neg_02_out.txt
